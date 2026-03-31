@@ -1,11 +1,10 @@
 <div align="center">
 <br/>
 <!-- Typing SVG Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Lora&weight=500&size=32&pause=1000&color=0F172A&center=true&vCenter=true&width=500&lines=hi,+i'm+Keerti!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Lora&weight=500&size=32&pause=1000&color=0F172A&center=true&vCenter=true&width=500&lines=Hi,+I'm+Keerti!" alt="Typing SVG" />
 <p align="center">
   <em>Data Science & Stats + CS @ UT Austin</em>
 </p>
-<br/>
 </div>
 
 ---
@@ -60,6 +59,4 @@ Archevo, an AI-powered environmental design platform aiming to improve safety an
 
 **[Linkedin](https://linkedin.com/in/keertikoya)** &nbsp;·&nbsp; **[Website](http://keertikoya.github.io/)** &nbsp;·&nbsp; **[Email](mailto:koyakeerti@gmail.com)**
 
-<br/>
 </div>
-<br/>
