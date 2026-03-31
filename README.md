@@ -55,8 +55,4 @@ Archevo, an AI-powered environmental design platform aiming to improve safety an
 
 ### connect with me!
 
-<div align="center">
-
 **[Linkedin](https://linkedin.com/in/keertikoya)** &nbsp;·&nbsp; **[Website](http://keertikoya.github.io/)** &nbsp;·&nbsp; **[Email](mailto:koyakeerti@gmail.com)**
-
-</div>
