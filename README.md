@@ -3,7 +3,7 @@
 <!-- Typing SVG Header -->
 <img src="https://readme-typing-svg.demolab.com?font=Lora&weight=500&size=32&pause=1000&color=0F172A&center=true&vCenter=true&width=500&lines=Hi,+I'm+Keerti!" alt="Typing SVG" />
 <p align="center">
-  <em>Data Science & Stats + CS @ UT Austin</em>
+  <em>CS + Data Science & Stats @ UT Austin</em>
 </p>
 </div>
 
@@ -18,6 +18,9 @@
 
 ### hackathons
 
+**CS and Business Honors Hackathon** &nbsp;·&nbsp; *Best Overall* &nbsp;  
+Keystone, a property management platform helping independent landlords manage their entire rental lifecycle.
+
 **DataHack** &nbsp;·&nbsp; *1st Place* &nbsp;  
 Built ML models to create strategic recommendations to improve customer listening experience and retention.
 
@@ -25,7 +28,7 @@ Built ML models to create strategic recommendations to improve customer listenin
 Synapse, an education platform adapting learning to each student.
 
 **WiCS Hackathon** &nbsp;·&nbsp; *Participant* &nbsp;  
-Sonar, a data-driven tour planning platform helping artists identify latent audience demand to book more profitable tours.
+Sonar, a tour planning platform assisting artists in identifying latent audience demand to book more profitable tours.
 
 **Momentum Buildathon** &nbsp;·&nbsp; *Best Pitch* &nbsp;   
 Archevo, an AI-powered environmental design platform aiming to improve safety and sustainability in architecture.
@@ -37,8 +40,8 @@ Archevo, an AI-powered environmental design platform aiming to improve safety an
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
